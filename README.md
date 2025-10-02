@@ -8,7 +8,22 @@
 
 Welcome to Midnight Aliit!
 
-**In this repo you'll find all resource guides including:**
+You’re part of a very small, exclusive first cohort selected for the unique value you bring to the Midnight ecosystem and we’re thrilled to have you as part of this founding group. Let’s build the future, together.
+
+## How to Get Started
+
+All ambassador activity is tracked in our questing platform, Zealy. There you can:
+- Browse contribution opportunities
+- Earn points for your work
+- Track your tier progress in real time
+
+As you participate, you’ll unlock rewards across four areas of contribution:
+- Educate: Share Midnight’s technology through talks, workshops, and content
+- Advocate: Represent our mission and explain the importance of privacy to developers
+- Engage: Host events and introduce new developers to the ecosystem
+- Contribute: Build projects, give product feedback, and support community growth
+
+## In this repo you'll find all resource guides including:
 - [Program Overview, Tiers, Benefits](./docs/design.md).
 - [Zealy Guidelines](link to come).
 - [Resources & Support Links](link to come).
