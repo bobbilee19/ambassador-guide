@@ -1,103 +1,38 @@
 <div align="center">
 
-<a href="https://oscafrica.org/discord"><img src="https://raw.githubusercontent.com/oscafrica/design/master/Brand%20Assets/Logo%20PNG%3ASVG/OSCA%20Logo_Colored.png" alt="OSCA's Logo" width='50px' height='auto'/></a>
+<a href="https://oscafrica.org/discord"><img src="" alt="Midnight Network Logo" width='50px' height='auto'/></a>
 
-# Chapter Leads Hub 🎖
+# Midnight Aliit Hub 🏴
 
 </div>
 
-OSCA Chapter Leads will use this repository for:
+Welcome to Midnight Aliit!
 
-- Discussing and planning chapter activities.
-- Requesting help, support, or materials from Open Source Community Africa. 
-- Tracking and talking about the activities you are organizing.
-- Exploring the docs for the onboarding guide, design assets, expenses guide, and sponsorship guide.
-- Anything else a Chapter Lead needs to be successful.
+**In this repo you'll find all resource guides including:**
+- [Program Overview, Tiers, Benefits](./docs/design.md).
+- [Zealy Guidelines](link to come).
+- [Resources & Support Links](link to come).
+- [Monthly Comms & Metrics Guide](link to come)
+- [Talk / Workshop Ideas.](link to come).
+- [Speaker Guide](link to come).
+- [Hosting Event Guide](link to come).
+- [X Engagement Guide](link to come).
+- [Travel Guide](link to come).
 
-## Quickstart
+## Important Program and Zealy Guidelines
 
-- 🎖 Open an issue in this repository using the `Event Issue` template.
-- 🏷 Add the specific labels needed for your request (especially one for the event type, city, and country).
-- ⏳ A community manager will review, respond to, and/or approve your request.
-- 📦 If requested, your support request will be processed.
-- 🎊 Host the event!
-- 📜 Submit your post-event or expense report.
-- ✅ Your issues will be closed.
+**Zealy Point Transfer Guidelines:**
+- Public Zealy Board (before you join the program):
+-- If you earned points on the public board, those points do not transfer automatically.
+-- If you see the same quest on the ambassador board, you may resubmit your previous answers once, and we will give you credit for them.
+- Private Ambassador Zealy Board (after you join):
+-- Going forward, all quests and points must be completed in the ambassador board only.
+-- You may not duplicate points for new quests that appear in both boards after you’ve joined.
 
-## Important Rules
+**Phase 0 Privacy Until Midnight Summit / November 2025:** Please keep your membership in Aliit strictly confidential until the Midnight Summit (November 17-19, 2025), when the program will be officially announced.
 
-- Please read the [**chapter leads onboarding guide**](https://docs.oscafrica.org/community/chapters/chapter-leads-onboarding-guide) if you haven't already.
-- We need **2 weeks minimum and 3 weeks maximum notice** to approve proposed events.
-- We need **21 days maximum notice** (three weeks) to provide financial/other kinds of support for your request.
+**Phase 1 Reset:** In 6 months, all of your Zealy XP points will reset as we prepare for the official launch of Midnight Aliit, the official yearly ambassador program that will run approximately from March 2026 - March 2027.
 
-## Important Files
+**Check-Ins:** Ambassadors are expected to submit a monthly check-in report. Missing two in a row without communication will result in removal from the program.
 
-1. [Design Guidelines](./docs/design.md).
-2. [Sponsorship Guidelines](./docs/sponsorship.md).
-3. [Expense Guidelines](./docs/expenses.md).
-4. [Event Budget Guidelines](./docs/event-budget.md).
-5. [Budget Template](https://bit.ly/3SmTFQa).
-6. [Events Calendar](./docs/calendar.md).
-7. [Post Event Template](./docs/post-event-template.md).
-8. [Resources](./resources/README.md).
-
-## Submitting Event Requests
-
-Here's an example of how to submit a request. Let's say you want to host a workshop on "Building Open Source Projects" for your chapter in Lagos State, Nigeria, you will do the following:
-
-<details>
-  <summary>🎖 Open an Issue</summary>
-  <br />
-
-  You will open an issue titled *"Building Open Source Projects | Lagos | 2021/10/13"*, and describe what you're planning to do as requested in the issue template. PLEASE DELETE ALL AND ONLY THE COMMENTS/QUOTES BELOW BEFORE SUBMITTING YOUR ISSUE (quotes started with **>** in the template).
-</details>
-
-<details>
-  <summary>🏷 Add Lables</summary>
-  <br />
-
-  You will then add the compulsory labels "Lagos" (Your City), "Nigeria" (Your Country), and "Workshop" (Event Type), alongside any other optional related tag(s). See all tags [here](https://github.com/oscafrica/chapter-leads-hub/labels).
-</details>
-
-<details>
-  <summary>⏳ Review and Feedback</summary>
-  <br />
-
-  A community manager (Edidiong or Bolaji) will respond to your request. Once reviewed, your event will be approved, or rejected, or some feedback will be shared for changes.
-</details>
-
-<details>
-  <summary>📦 Request Processing</summary>
-  <br />
-
-  If you request for financial sponsorship, we will begin processing the request through [Open Collective](https://opencollective.com/osca) or local systems available. We will aim to get the approved amount across before your event date.
-</details>
-
-<details>
-  <summary>🗣 Publicize the Event</summary>
-  <br />
-
-  Once your event is approved, create a banner for your event using the design guidelines (if you don't have one already), create an RSVP page with which you will collect important information from your attendees before the event, and share both with the global/local OSCA community on Discord and social media.
-
-</details>
-
-<details>
-  <summary>🎊 Host the Event!</summary>
-  <br />
-
-  Now you can proceed to host the workshop.
-</details>
-
-<details>
-  <summary>📜 Submit Your Event Report</summary>
-  <br />
-  
-  After the event is completed, return to the created issue and submit a post-event report. Your report should include photos, relevant social media posts, reports, and any other details. To create the post-event report, use the [Post Event Template](/docs/post-event-template.md), submit the report as a comment under the issue, and submit any expenses by following the [Expenses Guidelines](/docs/expenses.md).
-</details>
-
-<details>
-  <summary>✅ The Issue Will Be Closed</summary>
-  <br />
-
-  You have done well, mission complete!
-</details>
+**Pausing & Eligibility:** Aliit members are required to have at least 500 points by January 15, 2025 to stay in the program. We understand life happens, if you need to step back temporarily, let us know as soon as possible. Your tier won’t be downgraded; you’ll simply be marked as “Inactive,” with your contributions celebrated as an Aliit alumni. You’ll always have an open door to rejoin a future cohort.
