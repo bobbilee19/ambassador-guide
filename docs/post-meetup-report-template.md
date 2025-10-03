@@ -1,7 +1,7 @@
 
-# Post Event Report [EVENT NAME] [DATE]
+# Post Meetup Report [EVENT NAME] [DATE]
 
-> Kindly use this template to fill out a report about your just-concluded event. You don't need to include all the headings used below, as this is just a template to get you started. Feel free to delete headings that are not relevant to your event or add new ones as you deem fit.
+> Kindly use this template to fill out a report about your just-concluded meetup. You don't need to include all the headings used below, as this is just a template to get you started. Feel free to delete headings that are not relevant to your event or add new ones as you deem fit.
 
 
 ## Attendance 🔵
@@ -42,6 +42,6 @@ _Embed images from the event here or add a link to an image repository, drive, o
 
 _Generally, what's your overview of the event?_
 
-_How did it go for you as a Chapter Lead?_
+_How did it go for you as a meetup host?_
 
 _Looking forward to the next event? What changes will you be making based on your experience from this event?_
