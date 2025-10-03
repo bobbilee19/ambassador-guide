@@ -45,7 +45,8 @@ After approval:
 ---
 
 ### Step 1: Submit Your Request
-- **Check Travel Guide First:** Please review the **[Ambassador Travel Guide]** before submitting.  
+- **Review Travel Guide:** Please review the **[Ambassador Travel Guide]** before submitting.
+  - Expenses must be approved in advance. Please send us an overview of your budget during your event submission.  
   - Choose events within driving or train distance when possible.  
   - Extended travel will be approved only in special cases.
 - **Request Form:** Fill out the **[Travel & Speaking Request Form]** with event details (title, location, dates, topic).
@@ -53,10 +54,11 @@ After approval:
 
 ---
 
-### Step 2: After Approval & 4+ Weeks Out
+### Step 2: After Approval
+- **Travel Prep**: Arrange and/or book any travel needed.
 - **Speaker Training:**  
-  - Join a paid group session with our speaker coach to align on goals and messages.  
-  - Schedule a paid 1:1 coaching session to refine your talk or workshop.
+  - Join a group session with our speaker coach to align on goals and messages.  
+  - Schedule a 1:1 coaching session to refine your talk or workshop (paid by Midnight).
 - **Content Outline:** Draft title, abstract, audience level, and key takeaways.
 - **Branding and Materials:** Use official Midnight logos and approved talking points.
 - **Promotion:** Announce on X and LinkedIn. Midnight will amplify.
@@ -64,15 +66,15 @@ After approval:
 ---
 
 ### 3 Weeks Before
-- **Slide Draft:** Prepare first version of slides or demo flow.
-- **Team Review:** Send materials to **aliit@midnight.foundation** for feedback.
-- **Mentorship:** Book an extra coaching session if needed.
-- **Community Engagement:** Connect with local clubs or communities that may attend.
+- **Slide Draft:** Prepare first version of slides and demo(s).
+- **Team Review:** Send slides and a video walkthrough of any demos to **aliit@midnight.foundation** for feedback.
+- **Mentorship:** Book an additional coaching session if needed.
+- **Community Engagement:** Connect with local clubs and community leads to extend event invites.
 
 ---
 
 ### 2 Weeks Before
-- **Finalize Slides and Demos:** Incorporate feedback. Re-send finalized slides.
+- **Finalize Slides and Demos:** Incorporate feedback. Re-send finalized slides to Midnight.
 - **Finalize Logistics:** Confirm travel, event schedule, and AV setup.
 - **Promotion Push:** Share a “2 weeks to go” teaser with your session details.
 
