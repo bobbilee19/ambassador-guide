@@ -1,6 +1,6 @@
 # Speaker Guide
 
-| 🗣️ Request to Speak or Run a Workshop | 📥 Invoice Submission Process |
+| 🗣️ Request to Speak or Run a Workshop | Event Travel Guide | 📥 Invoice Submission Process |
 
 ---
 
@@ -13,18 +13,9 @@
 - **Meetups:** Regional and online meetups focused on Web3, cryptography, and privacy
 
 ## CFP Tips
-- Review **Leveling Up Your CFP Submissions.pptx** for concrete examples and checklists.
+- Review **[Leveling Up Your CFP Submissions](https://docs.google.com/presentation/d/1-JeOBwhaQb6Duj9cY_wpmqPZUrsCj2uP/edit?usp=sharing&ouid=100786831146630912103&rtpof=true&sd=true)** for tips.
 - Aim for a clear problem, a practical takeaway, and a concise title.
 - Match audience level and track. Avoid jargon where it does not help the value of the proposal.
-- Include measurable **learning outcomes** and a brief **speaker bio** with relevant experience.
-
-## Invoicing
-**Expenses must be approved in advance.** Please send us an overview of your budget during your event submission.
-
-After approval:
-- Midnight will sponsor ambassasdors for approved costs associated with a relevant event (Please keep your receipts).
-- Upon event completion, you will submit your expense receipts and proof of purchase.
-- Read more on the travel expense process [here](./travel-guide.md).
 
 ---
 
