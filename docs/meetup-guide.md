@@ -1,6 +1,6 @@
 # Ambassador Meetup / Event Hosting Guide
 
-| [Request to Run a Meetup](/docs/meetup-request-template.md) | [Submit Invoice for Meetup Expenses](/docs/event-invoice-template.md) |
+| [Request to Run a Meetup](/docs/event-request-template.md) | [Submit Invoice for Meetup Expenses](/docs/event-invoice-template.md) |
 
 **Goal:** Host educational meetups, workshops, and discussions that introduce developers, privacy advocates, and web3 builders to Midnight.  
 **Focus areas:** ZK, encryption, developer tooling, privacy patterns, and Midnight use cases.
