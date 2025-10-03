@@ -21,11 +21,11 @@ Expenses will be paid to your local bank, other accepted payment methods request
 Before, during, and after your event, log all expenses and receipts / proof of purchase.
 
 ### How to submit your expense report:
-1. Ensure your event issue is open at (SAMSON: explain this more to me, I don't get this part)
+1. Ensure your event issue is open at (SAMSON: I don't get this part from your example repo, PLEASE FILL OUT THIS SECTION WHILE IM GONE)
 2. Ensure your expense request is approved.
 3. Keep all receipts and proof of purchases.
 4. Create a new folder in this [expenses folder](link to come) with your **MEETUP LOCATION NAME - FIRST NAME**.
 5. For each meetup, create a new folder in your meetup folder created above with the title format: **DATE-OF-EVENT**.
 6. Create a receipt folder within your meetup folder, and upload all receipts to the folder you created with the title format: **EXPENSE CATEGORY (e.g FOOD, BEV) - DATE OF PURCHASE**.
-7. Create an invoice (LINK TO TEMPLATE IN GITHUB), link your reciept folder, submit a PR for approval.
+7. Create an invoice using the [EVENT INVOICE TEMPLATE](/docs/event-invoice-template.md). In this template it'll ask for a link your reciept folder you just created. SAMSON - now do they submit a PR for this invoice template?
 8. Ping SAMSON on Discord if you have not heard from Midnight in 72 Hours.
