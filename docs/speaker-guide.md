@@ -1,6 +1,9 @@
 # Speaker Guide
 
-| 🗣️ Request to Speak or Run a Workshop | Event Travel Guide | 📥 Invoice Submission Process |
+| 🗣️ [REQUEST TO SPEAK](/docs/event-request-template.md) | 💸 [EVENT EXPENSE GUIDE](/docs/event-expense-guide.md) | 📥 [SUBMIT EVENT INVOICE](/docs/event-invoice-template.md) |
+
+## Guidelines
+We want you to choose regional conferences, hackathons, and meetups that you can reach by **car** or **train**, or events you will already attend where you can add a **side talk**, **meetup**, or **lightning talk**.
 
 ---
 
