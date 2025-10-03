@@ -1,8 +1,7 @@
 # Ambassador Meetup / Event Hosting Guide
 
-| Request to Run a Meetup (LINK TO COME) | Submit Invoice for Meetup Expenses (LINK TO COME) |
+| [Request to Run a Meetup](/docs/meetup-request-template.md) | [Submit Invoice for Meetup Expenses](/docs/event-invoice-template.md) |
 
-## Purpose
 **Goal:** Host educational meetups, workshops, and discussions that introduce developers, privacy advocates, and web3 builders to Midnight.  
 **Focus areas:** ZK, encryption, developer tooling, privacy patterns, and Midnight use cases.
 
@@ -11,7 +10,7 @@
 ## Planning, Logistics, and Support
 
 - **Financial Support from Midnight:**  
-  When you submit your request (link to request) to run a Midnight meetup we will review your budget needs. Expect no more than **$[amount] USD per head** when budgeting your event.
+  When you submit your request (link to request) to run a Midnight meetup we will review your budget needs. Expect no more than SAMSON ADD THIS **$[amount] USD per head** when budgeting your event.
 
 - **Venue:**  
   Prioritize free venues near your primary residence such as university classrooms and cryptography labs, co-working spaces, startup incubators, local tech company offices, libraries, and blockchain club spaces.
