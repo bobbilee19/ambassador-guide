@@ -1,6 +1,6 @@
 # Ambassador Meetup / Event Hosting Guide
 
-| Request to Run a Meetup | Submit Invoice for Meetup Expenses |
+| Request to Run a Meetup (LINK TO COME) | Submit Invoice for Meetup Expenses (LINK TO COME) |
 
 ## Purpose
 **Goal:** Host educational meetups, workshops, and discussions that introduce developers, privacy advocates, and web3 builders to Midnight.  
