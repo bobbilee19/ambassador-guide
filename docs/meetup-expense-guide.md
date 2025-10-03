@@ -1,5 +1,7 @@
 # Meetup Expense Guide 🧾
 
+| [EVENT INVOICE TEMPLATE](/docs/event-invoice-template.md) |
+
 All expenses you'd like to get reiumbursed must be approved **before** the event. Expenses not approved before spending will not be reimbursed.
 
 Approved expenses include:
