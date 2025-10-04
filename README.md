@@ -10,7 +10,7 @@
 
 You’re part of a very small, exclusive first cohort selected for the unique value you bring to the Midnight ecosystem and we’re thrilled to have you as part of this founding group. Let’s build the future of privacy, together.
 
-## ⚠️ Important Midnight Aliit Program Guidelines
+## ⚠️ Important Program Guidelines
 
 **You are Part of a Secret Phase 0 Launch of Midnight Aliit Until Midnight Summit / November 2025:** Please keep your membership in Aliit strictly confidential until the Midnight Summit (November 17-19, 2025), when the program will be officially announced.
 
@@ -20,7 +20,7 @@ You’re part of a very small, exclusive first cohort selected for the unique va
 
 **Pausing & Eligibility:** Aliit members are required to have at least 500 points by January 15, 2025 SAMSOM CHECK THIS DATE to stay in the program. We understand life happens, if you need to step back temporarily, let us know as soon as possible. Your tier won’t be downgraded; you’ll simply be marked as “Inactive,” with your contributions celebrated as an Aliit alumni. You’ll always have an open door to rejoin a future cohort.
 
-### Resource Guides
+### Program Guides
 - [Program Tiers and Benefits](/docs/tiers.md)
 - [Zealy Guidelines](/docs/zealy-guide.md)
 - [Resources & Support Links](/resources/README.md)
@@ -32,13 +32,13 @@ You’re part of a very small, exclusive first cohort selected for the unique va
 - [X / Twitter Engagement Guide](/docs/x-engagement-guide.md)
 - [Program FAQs](/docs/faqs.md)
 
-### Templates
+### Program Templates
 - [Event Invoice](/docs/event-invoice-template.md)
 - [Event Request](/docs/event-request-template.md)
 - [Monthy Report](/docs/monthly-report-template.md) (send to Midnight at the end of each month)
 - [Post Meetup Report](/docs/post-meetup-report-template.md) (send to attendees in Luma, within 48 hours of meetup)
 
-## Onboarding
+## Get Started
 
 ### Step 1: Read and sign the Midnight Aliit Code of Conduct and NDA (you should have received links via email) SAMSON FIGURE OUT HOW TO ADD CoC to this repo link in your other one
 
