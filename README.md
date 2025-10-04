@@ -28,19 +28,19 @@ You’re part of a very small, exclusive first cohort selected for the unique va
 - [Hosting a Meetup Guide](/docs/meetup-guide.md)
 - [Talk / Workshop Ideas](/docs/talk-workshop-ideas.md)
 - [Speaker Guide](/docs/speaker-guide.md)
-- [Hosting and Speaking at an Event Guide](/docs/event-expense-guide.md)
-- [X Engagement Guide](/docs/x-engagement-guide.md)
-- [FAQs](/docs/faqs.md)
+- [Hosting and Speaking at an Event Expense Guide](/docs/event-expense-guide.md)
+- [X / Twitter Engagement Guide](/docs/x-engagement-guide.md)
+- [Program FAQs](/docs/faqs.md)
 
 ### Templates
 - [Event Invoice](/docs/event-invoice-template.md)
 - [Event Request](/docs/event-request-template.md)
-- [Monthy Report (send to Midnight at the end of each month)](/docs/monthly-report-template.md)
-- [Post Meetup Report (send to attendees in Luma, within 48 hours of meetup)](/docs/post-meetup-report-template.md)
+- [Monthy Report](/docs/monthly-report-template.md) (send to Midnight at the end of each month)
+- [Post Meetup Report](/docs/post-meetup-report-template.md) (send to attendees in Luma, within 48 hours of meetup)
 
 ## Get Started
 
-### Step 1: Read and sign the Midnight Aliit Code of Conduct & NDA
+### Step 1: Read and sign the Midnight Aliit Code of Conduct and NDA (you should have received links via email) SAMSON FIGURE OUT HOW TO ADD CoC to this repo link in your other one
 
 ### Step 2: Join the *#🪪 | midnight-aliit* Channel in Discord:
 - Check your email for a private invite to join the new private [Midnight Aliit channel](https://discord.com/channels/1165826384975908924/1396617073894883390)
