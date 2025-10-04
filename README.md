@@ -6,7 +6,7 @@
 
 </div>
 
-## Welcome to Midnight Aliit!
+# Welcome to Midnight Aliit!
 
 You’re part of a very small, exclusive first cohort selected for the unique value you bring to the Midnight ecosystem and we’re thrilled to have you as part of this founding group. Let’s build the future of privacy, together.
 
@@ -38,7 +38,7 @@ You’re part of a very small, exclusive first cohort selected for the unique va
 - [Monthy Report](/docs/monthly-report-template.md) (send to Midnight at the end of each month)
 - [Post Meetup Report](/docs/post-meetup-report-template.md) (send to attendees in Luma, within 48 hours of meetup)
 
-## Get Started
+# Get Started
 
 ### Step 1: Read and sign the Midnight Aliit Code of Conduct and NDA (you should have received links via email) SAMSON FIGURE OUT HOW TO ADD CoC to this repo link in your other one
 
