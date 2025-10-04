@@ -61,5 +61,5 @@ You’re part of a very small, exclusive first cohort selected for the unique va
 
 #### Point Transfer Guidelines:
 - If you earned points on the public Midnight Network Zealy board in September and October, those points do not transfer over to the Midnight Aliit Zealy board
-- You may not duplicate points for quests that appear in both boards after you’ve joined Midnight Aliit
+- You may not claim points for quests that appear in both boards
 - Aliit members should focus only on quests in the Midnight Aliit Zealy board
