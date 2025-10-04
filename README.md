@@ -23,7 +23,7 @@ You’re part of a very small, exclusive first cohort selected for the unique va
 ### Resource Guides
 - [Program Tiers and Benefits](/docs/tiers.md)
 - [Zealy Guidelines](/docs/zealy-guide.md)
-- [Resources & Support Links](/docs/resources/README.md)
+- [Resources & Support Links](/resources/README.md)
 - [Monthly Comms & Metrics Guide](/docs/monthly-report-guide.md)
 - [Hosting a Meetup Guide](/docs/meetup-guide.md)
 - [Talk / Workshop Ideas](/docs/talk-workshop-ideas.md)
